@@ -10,7 +10,7 @@ import pytest
 import time
 from core.automation import IParkingAutomation
 
-print("hi")
+print("hdddi")
 
 # 프로젝트 루트 경로를 sys.path에 추가합니다.
 # (pytest.ini 설정이나 `python -m pytest` 사용을 권장합니다.)

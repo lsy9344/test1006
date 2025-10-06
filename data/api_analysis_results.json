@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "login_analysis": {
+    "success": true,
+    "api_calls": [],
+    "total_calls": 0
+  },
+  "vehicle_search_analysis": {
+    "success": true,
+    "api_calls": [],
+    "total_calls": 0
+  },
+  "discount_analysis": {
+    "success": false,
+    "error": "Message: \n"
+  },
+  "all_api_calls": []
+}

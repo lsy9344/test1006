@@ -1,0 +1,34 @@
+{
+  "success": false,
+  "status_history": [
+    {
+      "step": "site_access",
+      "status": "success",
+      "message": "site_access 성공",
+      "timestamp": 1759724165.907228
+    },
+    {
+      "step": "login",
+      "status": "success",
+      "message": "login 성공",
+      "timestamp": 1759724165.907231
+    },
+    {
+      "step": "vehicle_search",
+      "status": "success",
+      "message": "vehicle_search 성공",
+      "timestamp": 1759724165.907232
+    },
+    {
+      "step": "vehicle_selection",
+      "status": "success",
+      "message": "vehicle_selection 성공",
+      "timestamp": 1759724165.907232
+    }
+  ],
+  "current_status": "프로세스 실패",
+  "progress_percentage": 100,
+  "estimated_remaining_time": 3,
+  "error_message": "할인권 적용 실패",
+  "timestamp": 1759724142.316412
+}

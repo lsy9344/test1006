@@ -1,0 +1,14 @@
+# 아이파킹 자동화 시스템 의존성
+
+# 웹 자동화
+selenium>=4.36.0
+webdriver-manager>=4.0.2
+
+# HTTP 요청
+requests>=2.32.5
+
+# 테스트 프레임워크
+pytest>=8.4.2
+
+# 로깅 및 유틸리티
+python-dotenv>=1.1.1
